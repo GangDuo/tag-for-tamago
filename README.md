@@ -8,7 +8,7 @@
 ------
 1. Excelファイル「Sources」を編集します。
 
-###Sourcesルール
+### Sourcesルール
 | 項目名  | 説明                              |
 |:--------|:----------------------------------|
 | 出荷日  | たまご便出荷日を記載します。      |
@@ -30,16 +30,16 @@
 印刷編
 ------
 1. Wordファイル「たまご便」を開きます。
-1. 下記画面が表示される場合は、「はい」をクリックします。
-データファイルの選択画面が開くので、上述のExcelファイルSourcesを選択します。
+1. 下記画面が表示される場合は、「はい」をクリックします。  
+データファイルの選択画面が開くので、上述のExcelファイルSourcesを選択します。  
 ![new-vm-page](https://raw.githubusercontent.com/GangDuo/tag-for-tamago/images/st0.png)
-1. 差し込み文書 -> 完了と差し込み -> 文書の印刷をクリックします。
+1. 差し込み文書 -> 完了と差し込み -> 文書の印刷をクリックします。  
 ![new-vm-page](https://raw.githubusercontent.com/GangDuo/tag-for-tamago/images/st1.png)
-1. すべて -> OKをクリックします。
+1. すべて -> OKをクリックします。  
 ![new-vm-page](https://raw.githubusercontent.com/GangDuo/tag-for-tamago/images/st2.png)
-1. 用紙サイズの指定でA4を選択します。
+1. 用紙サイズの指定でA4を選択します。  
 ![new-vm-page](https://raw.githubusercontent.com/GangDuo/tag-for-tamago/images/st3.png)
-1. 原稿サイズ：A4
-原稿の向き：よこ原稿
-まとめて1枚：2アップをクリックします。
+1. 原稿サイズ：A4  
+原稿の向き：よこ原稿  
+まとめて1枚：2アップをクリックします。  
 ![new-vm-page](https://raw.githubusercontent.com/GangDuo/tag-for-tamago/images/st4.png)
