@@ -32,7 +32,7 @@
 1. Wordファイル「たまご便」を開きます。
 1. 差し込み文書 -> 宛先の選択 -> 既存のリストを使用をクリックします。  
 データファイルの選択画面が開くので、上述のExcelファイルSourcesを選択します。  
-![new-vm-page](https://raw.githubusercontent.com/GangDuo/tag-for-tamago/images/st5.png)
+![new-vm-page](https://raw.githubusercontent.com/GangDuo/tag-for-tamago/images/st5.png)  
 下記画面が表示される場合は、「はい」をクリックします。  
 データファイルの選択画面が開くので、上述のExcelファイルSourcesを選択します。  
 ![new-vm-page](https://raw.githubusercontent.com/GangDuo/tag-for-tamago/images/st0.png)
